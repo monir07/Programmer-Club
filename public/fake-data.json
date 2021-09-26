@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Jhankar Mahbub",
+        "designation": "CEO & Founder",
+        "salary": 90000,
+        "image": "https://web.programming-hero.com/public/1625573122618.png"
+    },
+    {
+        "id": 2,
+        "name": "Rasel Ahmed",
+        "designation": "Product Manager",
+        "salary": 50000,
+        "image": "https://web.programming-hero.com/public/1625419447111.png"
+    },
+    {
+        "id": 3,
+        "name": "Mohammad Anwar",
+        "designation": "Senior Software Developer",
+        "salary": 45000,
+        "image": "https://web.programming-hero.com/public/1625664273233.png"
+    },
+    {
+        "id": 4,
+        "name": "Tanvir Islam",
+        "designation": "Software Engineer",
+        "salary": 65000,
+        "image": "https://web.programming-hero.com/public/1625573392044.png"
+    },
+    {
+        "id": 5,
+        "name": "Solaiman Shadin",
+        "designation": "Web Developer",
+        "salary": 55000,
+        "image": "https://web.programming-hero.com/public/1625573607305.png"
+    },
+    {
+        "id": 6,
+        "name": "Sadia Sultana Kumu",
+        "designation": "Web Developer",
+        "salary": 50000,
+        "image": "https://web.programming-hero.com/public/1625573626449.png"
+    },
+    {
+        "id": 7,
+        "name": "Manik Roy",
+        "designation": "Web Developer",
+        "salary": 40000,
+        "image": "https://web.programming-hero.com/public/1625573645197.png"
+    },
+    {
+        "id": 8,
+        "name": "Shrikanta Mazumder",
+        "designation": "Jr. Software developer",
+        "salary": 30000,
+        "image": "https://web.programming-hero.com/public/1625573805803.png"
+    },
+    {
+        "id": 9,
+        "name": "Md. Rashad Tanjim",
+        "designation": "Jr. Android Developer",
+        "salary": 35000,
+        "image": "https://web.programming-hero.com/public/1625573827403.png"
+    },
+    {
+        "id": 10,
+        "name": "Faiza Feroz",
+        "designation": "SQA Engineer",
+        "salary": 35000,
+        "image": "https://web.programming-hero.com/public/1625573888271.png"
+    },
+    {
+        "id": 11,
+        "name": "Najmus Sakib",
+        "designation": "Web Developer (Support Instructor)",
+        "salary": 50000,
+        "image": "https://web.programming-hero.com/public/1625573961266.png"
+    },
+    {
+        "id": 12,
+        "name": "Muktadir Hassan",
+        "designation": "Web Developer (Support Instructor)",
+        "salary": 55000,
+        "image": "https://web.programming-hero.com/public/1625574023463.png"
+    },
+    {
+        "id": 13,
+        "name": "Emdadul Hoque Tareque",
+        "designation": "Assistant Manager, Web Course",
+        "salary": 60000,
+        "image": "https://web.programming-hero.com/public/1625574121230.png"
+    },
+    {
+        "id": 14,
+        "name": "Ashrafur Rahman Minhaj",
+        "designation": "Python Developer",
+        "salary": 60000,
+        "image": "https://web.programming-hero.com/public/1625574202350.png"
+    },
+    {
+        "id": 15,
+        "name": "Azizul Islam Milton",
+        "designation": "Web Developer (Support Instructor)",
+        "salary": 35000,
+        "image": "https://web.programming-hero.com/public/1625574636452.png"
+    }
+]
